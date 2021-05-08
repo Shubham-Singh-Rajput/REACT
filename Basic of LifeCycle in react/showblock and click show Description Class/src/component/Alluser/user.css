@@ -1,0 +1,10 @@
+.allUser{
+    display: flex;
+    background-color: aqua;
+    margin: 10px;
+    width:50vw
+
+}
+.Title{
+    padding: 8px;
+}
