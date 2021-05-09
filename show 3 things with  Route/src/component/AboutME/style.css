@@ -1,0 +1,22 @@
+.container{
+    margin: 80px;
+    background-color: rgb(7 255 136);
+    padding: 50px;
+}
+.ONE{
+    background-color: aquamarine;
+    padding: 15px;
+}
+.two{
+    background-color: aquamarine;
+    margin-top: 15px;
+    padding: 15px;
+    height: 40vh;
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 50vh;
+}

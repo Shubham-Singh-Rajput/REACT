@@ -1,0 +1,18 @@
+.allUser{
+    background-color: aquamarine;
+    margin-top: 10px;
+    width: 40vw;
+    padding: 10px;
+}
+.container{
+    display: flex;
+    position: fixed;
+}
+.single{
+    width: 40vw;
+    padding: 10px;
+}
+.inside{
+    overflow: scroll;
+    height: 50vh;
+}
